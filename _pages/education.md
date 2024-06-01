@@ -1,15 +1,45 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Education"
+permalink: /education/
 author_profile: true
-redirect_from:
-  - /resume
+# redirect_from:
+#   - /resume
 ---
 
 {% include base_path %}
 
-Education
+New York University
+======
+* Master of Science in Computer Science
+  * Machine Learning
+  * AI Applications - NLP, Computer Vision, IOT
+  * Predictive Analytics using Statistics
+  * Probability and Statistics
+  * Artificial Intelligence 
+  * Optimization Techniques
+  * Data Science Fundamentals
+  * Software Engineering
+  * Design and Analysis of Algorithms
+  * Discrete Mathematical Structures
+  * Operating Systems
+  * Database Management System
+
+Thapar Institute of Engineering and Technology
+======
+* Bachelor of Engineering in Computer Engineering
+  * Machine Learning
+  * Deep Learning
+  * Natural Language and Understanding
+  * Artificial Intelligence I
+  * Big Data
+  * Foundations of Data Science
+  * Software Engineering
+  * Design and Analysis of Algorithms
+  * Programming Languages
+
+
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -61,4 +91,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

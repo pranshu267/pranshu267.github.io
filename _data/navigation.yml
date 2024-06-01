@@ -1,13 +1,19 @@
 # main links links
 main:
+  - title: "Education"
+    url: /education/   
+
   - title: "Projects"
-    url: /projects/   
+    url: /projects/ 
+
+  - title: "Work Experience"
+    url: /workex/ 
     
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
+  - title: "Resume"
     url: /files/Pranshu-Goyal-Resume.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

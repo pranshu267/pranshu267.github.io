@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Work Experience"
-permalink: /wrokex/
+permalink: /workex/
 author_profile: true
 ---
 

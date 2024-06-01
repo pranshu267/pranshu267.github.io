@@ -25,7 +25,7 @@ Machine Learning Engineer Intern - Paytm
 * Implemented observability for services using NewRelic, Prometheus & Grafana, ensuring compliance with MLOps best practices.
 
 
-Data Analyst Intern - OnAcctuate
+Data Analyst Intern - OnActuate
 ======
 * Developed over 25 interactive PowerBI data visualizations to enhance client decision-making through in-depth analysis.
 * Leveraged Azure Data Factory for data integration, utilized Azure SQL Database for managing and querying large datasets, and deployed Power BI reports on Azure for scalable and secure data sharing.

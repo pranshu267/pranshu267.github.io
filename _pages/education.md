@@ -13,6 +13,19 @@ New York University
 ======
 * Master of Science in Computer Science
   * Machine Learning
+  * Deep Learning
+  * Natural Language and Understanding
+  * Artificial Intelligence I
+  * Big Data
+  * Foundations of Data Science
+  * Software Engineering
+  * Design and Analysis of Algorithms
+  * Programming Languages
+
+Thapar Institute of Engineering and Technology
+======
+* Bachelor of Engineering in Computer Engineering
+  * Machine Learning
   * AI Applications - NLP, Computer Vision, IOT
   * Predictive Analytics using Statistics
   * Probability and Statistics
@@ -24,20 +37,6 @@ New York University
   * Discrete Mathematical Structures
   * Operating Systems
   * Database Management System
-
-Thapar Institute of Engineering and Technology
-======
-* Bachelor of Engineering in Computer Engineering
-  * Machine Learning
-  * Deep Learning
-  * Natural Language and Understanding
-  * Artificial Intelligence I
-  * Big Data
-  * Foundations of Data Science
-  * Software Engineering
-  * Design and Analysis of Algorithms
-  * Programming Languages
-
 
 <!-- Education
 ======

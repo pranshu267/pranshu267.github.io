@@ -22,7 +22,7 @@ New York University
 
 Thapar Institute of Engineering and Technology    
 ======
-* Bachelor of Engineering in Computer Engineering       August 2018 - May 2022  
+* Bachelor of Engineering in Computer Engineering <span style="float: right;">August 2018 - May 2022</span>
   * Machine Learning
   * AI Applications - NLP, Computer Vision, IOT
   * Predictive Analytics using Statistics

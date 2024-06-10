@@ -62,3 +62,31 @@ A research project investigating the generalization ability of cross-lingual tra
   
 * **Multilingual Model Fine-Tuning:**
   * Fine-tuned mBERT, a multilingual language model, for sentiment analysis and hate speech detection tasks across English and Turkish languages. This comparative analysis validated the research hypothesis regarding cross-lingual transfer capabilities.
+ 
+Advanced Paraphrase Detection | [GitHub](https://github.com/pranshu267/Paraphrase)
+======
+Developed an advanced paraphrase detection system using a fine-tuned transformer model, enhancing the accuracy and efficiency of detecting paraphrased content. 
+
+* **Model Fine-Tuning:**
+  * Fine-tuned a state-of-the-art transformer model specifically for paraphrase detection tasks, optimizing it for high accuracy and robust performance.
+
+* **API Development and Deployment:**
+  * Made the model servable using FastAPI, providing a scalable and efficient API for real-time paraphrase detection.
+  * Implemented multi-threading to enable parallel processing of requests, significantly improving the system's throughput and responsiveness.
+
+* **Containerization and Deployment:**
+  * Dockerized the application to ensure consistent and reliable deployment across different environments.
+  * Streamlined the deployment process, making the system easy to set up and maintain, and enhancing its scalability and portability.
+
+
+Custom ResNet for CIFAR-10 Image Classification | [GitHub](https://github.com/vibhor18/Deep-Learning-CiFar10-ResNet-)
+======
+Designed and developed a Custom Residual Network (ResNet) architecture optimized for the CIFAR-10 image classification dataset, achieving high accuracy while maintaining a low parameter count. 
+
+* **Model Design:**
+  * Created a custom ResNet architecture with an emphasis on efficiency and performance, ensuring the total number of trainable parameters did not exceed 5 million.
+  * Incorporated various architectural enhancements, including adjustments to layer depth and filter sizes, to balance model complexity and accuracy.
+
+* **Training and Optimization:**
+  * Employed advanced training techniques and hyperparameter tuning to enhance model performance, using optimizers such as AdamW and learning rate schedulers to stabilize and accelerate the training process.
+  * Utilized extensive data augmentation strategies, including random cropping, horizontal flipping, and rotation, to improve model generalization and robustness against overfitting.

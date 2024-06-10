@@ -20,9 +20,9 @@ New York University
   * Design and Analysis of Algorithms
   * Programming Languages
 
-Thapar Institute of Engineering and Technology       August 2018 - May 2022      
+Thapar Institute of Engineering and Technology    
 ======
-* Bachelor of Engineering in Computer Engineering
+* Bachelor of Engineering in Computer Engineering       August 2018 - May 2022  
   * Machine Learning
   * AI Applications - NLP, Computer Vision, IOT
   * Predictive Analytics using Statistics

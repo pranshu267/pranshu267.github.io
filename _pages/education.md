@@ -9,7 +9,7 @@ author_profile: true
 
 New York University
 ======
-* Master of Science in Computer Science
+* Master of Science in Computer Science       September 2023 - May 2025 (expected)
   * Machine Learning
   * Deep Learning
   * Natural Language and Understanding
@@ -20,7 +20,7 @@ New York University
   * Design and Analysis of Algorithms
   * Programming Languages
 
-Thapar Institute of Engineering and Technology
+Thapar Institute of Engineering and Technology       August 2018 - May 2022      
 ======
 * Bachelor of Engineering in Computer Engineering
   * Machine Learning

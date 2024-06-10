@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# NYU Assistant [GitHub repository](https://github.com/pranshu267/NYUAssistant/tree/main)
+# NYU Assistant | [GitHub](https://github.com/pranshu267/NYUAssistant/tree/main)
 
 A sophisticated system designed to address the diverse inquiries of the NYU community by leveraging advanced data retrieval and natural language processing techniques.
 
@@ -27,6 +27,25 @@ A sophisticated system designed to address the diverse inquiries of the NYU comm
 
 - **Streamlit Framework:** Developed an interactive web application using Streamlit, providing a user-friendly and visually appealing interface for users to interact with the RAG system.
 - **User Engagement:** Designed the application to significantly enhance user engagement by offering intuitive navigation, real-time query handling, and visually rich responses.
+
+# Real-Time Forex Arbitrage and Price Prediction System | [GitHub](https://github.com/pranshu267/Real-Time-Forex-Arbitrage-Detection-and-Price-Prediction-System)
+
+A comprehensive system designed to optimize forex trading strategies by leveraging advanced data processing, predictive analytics, and real-time monitoring tools.
+
+## Data Processing and Storage
+
+- **Apache Spark Integration:** Engineered a forex trading system utilizing Apache Spark for efficient data processing and arbitrage calculations, significantly enhancing the accuracy and speed of trading strategies.
+- **Google BigQuery:** Implemented Google BigQuery for optimized data storage, ensuring quick and reliable access to large datasets, thereby improving operational efficiency and decision-making.
+
+## Predictive Analytics
+
+- **Bi-Directional LSTM Model:** Designed, trained, and deployed a Bi-Directional Long Short-Term Memory (LSTM) model for precise forex price prediction. This model leverages historical data to predict future price movements with high accuracy.
+- **Flask for Model Serving:** Utilized Flask to serve the trained LSTM model in real-time, enabling responsive and informed trading decisions based on the latest predictive analytics.
+
+## Data Ingestion and Monitoring
+
+- **Apache Airflow:** Scheduled and managed data ingestion processes using Apache Airflow, ensuring timely availability of data for continuous analytics and reporting.
+- **Looker Studio Dashboard:** Developed a real-time dashboard using Looker Studio to monitor forex trends and arbitrage opportunities. This dashboard provides traders with instant insights and actionable information, enhancing their ability to capitalize on market movements.
 
 
 

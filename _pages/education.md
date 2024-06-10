@@ -9,7 +9,7 @@ author_profile: true
 
 New York University
 ======
-* Master of Science in Computer Science       September 2023 - May 2025 (expected)
+* Master of Science in Computer Science <span style="float: right;">September 2023 - May 2025 (expected)</span>
   * Machine Learning
   * Deep Learning
   * Natural Language and Understanding

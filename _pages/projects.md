@@ -7,6 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
+NewsLens | [GitHub](https://github.com/pranshu267/NewsLens)
+======
+A comprehensive system for delivering concise, unbiased news insights by leveraging advanced retrieval and generation models. 
+
+* **Retrieval-Augmented Generation (RAG) Model:**
+  * Implemented a Retrieval-Augmented Generation (RAG) model to retrieve and fetch relevant articles based on user queries, ensuring the information provided is timely and relevant.
+
+* **Multi-Document Summarization:**
+  * Fine-tuned a BART transformer model to generate concise multi-document summaries. This model synthesizes complex information across different articles into a coherent narrative, providing users with comprehensive, precise, and unbiased news insights.
+
+* **Contextual Image Generation:**
+  * Integrated the Stable Diffusion model to generate contextual images corresponding to textual news summaries. Utilized a large language model (LLM) to generate prompts for the Stable Diffusion model, ensuring the images are contextually relevant and enhance the user’s understanding of the news content.
+
 NYU Assistant | [GitHub](https://github.com/pranshu267/NYUAssistant/tree/main)
 ======
 A sophisticated system designed to address the diverse inquiries of the NYU community by leveraging advanced data retrieval and natural language processing techniques. 

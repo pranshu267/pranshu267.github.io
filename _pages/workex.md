@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+Machine Learning and Data Science Intern - LOCOMeX
+======
+* Conducted EDA on healthcare datasets using pandas, seaborn and AWS S3, Glue for data storage and ETL processes.
+* Engineered and deployed ML models with scikit-learn and TensorFlow on AWS SageMaker to predict healthcare costs, identifying key demographic factors like zip code and race, and evaluating healthcare affordability by state and race.
+* Utilized NLTK and fine-tuned BERT transformer to extract and analyze data from doctor’s prescriptions and healthcare billing statements.
+
 Software Engineer - ION Trading
 ======
 * Spearheaded the development of 50+ features for server and frontend components in C++, Java, TypeScript (Angular) and HTML5, aimed at booking and processing trades, for leading banks like UBS, Scotia, Mitsubishi, Pierpont, TD bank.

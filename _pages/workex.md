@@ -17,7 +17,9 @@ In addition, I am engineering and deploying machine learning models with scikit-
 
 Furthermore, I am utilizing NLTK and fine-tuning a BERT transformer to extract and analyze data from doctor’s prescriptions and healthcare billing statements. This allows us to automate the extraction of relevant information, improving the accuracy and efficiency of our data analysis processes.
 
-Through these efforts, I am contributing to LOCOMex's mission to provide innovative healthcare analytics solutions, helping to enhance the understanding and management of healthcare costs and improve overall healthcare affordability.
+In another project, I have significantly reduced costs and manual efforts by 90% by developing a Retrieval Augmented Generation pipeline. Utilizing advanced NLP techniques like LangChain and OpenAI LLM APIs, I extracted ESG data from contracts, saving 80 man-hours per week. Additionally, I engineered and deployed a semantic search model on AWS using Pinecone. By employing word embeddings and cosine similarity analysis, this model matches suppliers with RFP requirements, ensuring accurate and relevant supplier recommendations.
+
+Through these efforts, I am contributing to LOCOMex's mission to provide innovative ESG solutions.
 
 Software Engineer - ION Trading
 ======

@@ -15,8 +15,6 @@ I am conducting Exploratory Data Analysis (EDA) on healthcare datasets using pan
 
 In addition, I am engineering and deploying machine learning models with scikit-learn and TensorFlow on AWS SageMaker to predict healthcare costs. These models are designed to identify key demographic factors such as zip code and race, and to evaluate healthcare affordability by state and race. This work is critical for providing actionable insights into the factors influencing healthcare costs and affordability.
 
-Furthermore, I am utilizing NLTK and fine-tuning a BERT transformer to extract and analyze data from doctor’s prescriptions and healthcare billing statements. This allows us to automate the extraction of relevant information, improving the accuracy and efficiency of our data analysis processes.
-
 In another project, I have significantly reduced costs and manual efforts by 90% by developing a Retrieval Augmented Generation pipeline. Utilizing advanced NLP techniques like LangChain and OpenAI LLM APIs, I extracted ESG data from contracts, saving 80 man-hours per week. Additionally, I engineered and deployed a semantic search model on AWS using Pinecone. By employing word embeddings and cosine similarity analysis, this model matches suppliers with RFP requirements, ensuring accurate and relevant supplier recommendations.
 
 Through these efforts, I am contributing to LOCOMex's mission to provide innovative ESG solutions.

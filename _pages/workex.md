@@ -9,13 +9,11 @@ author_profile: true
 
 Machine Learning and Data Science Intern - LOCOMeX
 ======
-As a current Machine Learning Intern at LOCOMex, I am actively involved in a project focused on healthcare analytics and predictive modeling. My work encompasses a range of tasks aimed at improving the understanding and management of healthcare costs.
+As a current Machine Learning and Data Science Intern at LOCOMeX, I have been working on several impactful projects. I have trained and deployed XGBoost and Random Forest models using AWS Lambda and Docker, optimizing performance and scalability, while achieving an impressive 80% accuracy in predicting a company’s social score based on ITA-defined parameters. I significantly reduced costs and manual efforts by 90% by developing a Retrieval Augmented Generation pipeline, utilizing advanced NLP techniques like LangChain and OpenAI LLM APIs to extract ESG data from contracts, which saved the company 80 man-hours per week. 
 
-I am conducting Exploratory Data Analysis (EDA) on healthcare datasets using pandas and seaborn, leveraging AWS S3 and Glue for data storage and ETL processes. This analysis is essential for uncovering patterns and insights that inform our predictive models.
+Additionally, I designed and implemented ETL pipelines using AWS Lambda functions to efficiently extract, transform, and load data from S3 buckets, resulting in enhanced data accessibility and streamlined processing workflows. I also engineered and deployed a semantic search model on AWS using Pinecone, leveraging word embeddings and cosine similarity analysis to accurately match suppliers with RFP requirements, ensuring precise and relevant supplier recommendations. These experiences have equipped me with a robust skill set in machine learning, data science, and cloud computing.
 
-In addition, I am engineering and deploying machine learning models with scikit-learn and TensorFlow on AWS SageMaker to predict healthcare costs. These models are designed to identify key demographic factors such as zip code and race, and to evaluate healthcare affordability by state and race. This work is critical for providing actionable insights into the factors influencing healthcare costs and affordability.
-
-In another project, I have significantly reduced costs and manual efforts by 90% by developing a Retrieval Augmented Generation pipeline. Utilizing advanced NLP techniques like LangChain and OpenAI LLM APIs, I extracted ESG data from contracts, saving 80 man-hours per week. Additionally, I engineered and deployed a semantic search model on AWS using Pinecone. By employing word embeddings and cosine similarity analysis, this model matches suppliers with RFP requirements, ensuring accurate and relevant supplier recommendations.
+In another project, I am conducting Exploratory Data Analysis (EDA) on healthcare datasets using pandas and seaborn, leveraging AWS S3 and Glue for data storage and ETL processes. This analysis is essential for uncovering patterns and insights that inform our predictive models.
 
 Through these efforts, I am contributing to LOCOMex's mission to provide innovative ESG solutions.
 

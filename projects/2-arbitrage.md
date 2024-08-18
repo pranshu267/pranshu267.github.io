@@ -4,5 +4,4 @@ Real-Time Forex Trading and Arbitrage Detection System uses Apache Spark for pro
 <br>
 <!-- <img src="https://github.com/pranshu267/pranshu267.github.io/blob/main/assets/project1.png" height="200"> -->
 
-<br>
 **[<i class="fa-solid fa-up-right-from-square"></i> Uncover the Project - Click Here](https://github.com/pranshu267/Real-Time-Forex-Arbitrage-Detection-and-Price-Prediction-System)**

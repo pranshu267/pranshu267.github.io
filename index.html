@@ -123,6 +123,30 @@
       <span class="text-black font-bold"><a href="https://pranshu267.github.io/">Pranshu Goyal</a></span><span class="text-black"></span>
     </div>
     <button id="dark-mode-toggle" class="ml-4 p-2  text-black rounded shadow-md">☀️</button>
+    <script>
+      // Function to apply dark mode based on the saved state
+      function applyDarkMode() {
+        const isDarkMode = localStorage.getItem('dark-mode') === 'true';
+        if (isDarkMode) {
+          document.body.classList.add('dark-mode');
+          document.getElementById("dark-mode-toggle").innerText = "☀️";
+        } else {
+          document.body.classList.remove('dark-mode');
+          document.getElementById("dark-mode-toggle").innerText = "🌓";
+        }
+      }
+    
+      // Apply dark mode on page load
+      applyDarkMode();
+    
+      // Add event listener to toggle dark mode and save the state in localStorage
+      document.getElementById("dark-mode-toggle").addEventListener("click", () => {
+        document.body.classList.toggle("dark-mode");
+        const isDarkModeOn = document.body.classList.contains("dark-mode");
+        localStorage.setItem('dark-mode', isDarkModeOn);
+        document.getElementById("dark-mode-toggle").innerText = isDarkModeOn ? "☀️" : "🌓";
+      });
+    </script>
   </nav>
   <div class="flex flex-col items-center justify-center min-h-screen">
     <div id="header-container" class="px-4 py-5 mt-8 space-x-4">

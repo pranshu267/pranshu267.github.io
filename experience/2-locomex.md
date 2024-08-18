@@ -8,4 +8,4 @@ June 2024 - August 2024
 * Enhanced a semantic search model deployed on AWS by using all-distilroberta-v1 embeddings, improving supplier recommendation accuracy by 40% and relevance by 30% in matching RFP requirements.
 <br>
 
-**[Read More](../pages/experience4.html)**
+**[Read More](../pages/experience2.html)**

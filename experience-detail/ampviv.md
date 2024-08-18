@@ -1,0 +1,10 @@
+# Software Engineer
+**ION Trading** 
+January 2022 – June 2023
+<br>
+
+At ION Trading, I played a crucial role in enhancing the technological infrastructure and improving the efficiency of our trading systems. My work spanned both backend and frontend development, utilizing a diverse technology stack including C++, Java, TypeScript (Angular), and HTML5. I spearheaded the development of over 50 features for server and frontend components, essential for booking and processing trades for leading financial institutions such as **UBS, Scotia, Mitsubishi, Pierpont, and TD Bank**. My involvement in the full Software Development Life Cycle (SDLC) ensured that from requirement analysis and design to coding and quality assurance, every project was delivered on time and to a high standard. This led to the successful completion of over 15 client-requested paid enhancements, significantly boosting client satisfaction and system capabilities.
+
+A significant part of my role involved re-engineering and developing features for a legacy C++ server component responsible for the manual booking of trades including swaps, bonds, treasuries, options, and futures. By transitioning this system to Java, I achieved notable improvements in performance and reliability, making the system more scalable and easier to maintain. Additionally, I engineered over 10 APIs to facilitate client integration, greatly enhancing system interoperability and customer satisfaction.
+
+My contributions extended to the Continuous Integration/Continuous Deployment (CI/CD) pipeline, where I created automated jobs using Jenkins and Docker. This initiative led to a 12% reduction in release time, streamlining the deployment process and ensuring faster delivery of updates and new features. Through these efforts, I significantly improved the performance and reliability of our trading systems, enhanced client satisfaction, and maintained our competitive edge in the financial technology market.

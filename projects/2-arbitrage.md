@@ -1,6 +1,7 @@
 #  Real-Time Forex Trading and Arbitrage Detection System
 
-Real-Time Forex Trading and Arbitrage Detection System uses Apache Spark for processing live data streams and performing arbitrage calculations. A multivariate bi-directional LSTM model is deployed via Flask for accurate price prediction, managed by Apache Airflow for seamless data ingestion. The system features a real-time Looker Studio dashboard to monitor forex trends and arbitrage opportunities. Integrates Google BigQuery for scalable data storage and Prefect for workflow automation, enhancing trading strategies and operational efficiency.
+Utilizes Apache Spark for live data processing and arbitrage calculations, with a multivariate bi-directional LSTM model deployed via Flask for price prediction. Managed by Apache Airflow for data ingestion, it integrates Google BigQuery for scalable storage and features a Looker Studio dashboard for monitoring forex trends and opportunities.
+
 <br>
 <!-- <img src="https://github.com/pranshu267/pranshu267.github.io/blob/main/assets/project1.png" height="200"> -->
 

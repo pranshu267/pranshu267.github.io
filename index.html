@@ -397,13 +397,12 @@
 
                     // Add images for the "projects" folder only
                     const projectCard = `
-  <div class="markdown-container bg-white p-4 rounded shadow-md transition-colors duration-200 hover:bg-gray-100 w-200 h-auto overflow-auto flex-none mx-2 my-2">
-    <img src="assets/${file.name.replace('.md', '.png')}" alt="${title}" class="mb-4" onerror="console.log('Image not found: assets/${file.name.replace('.md', '.png')}')" />
-    <h2 class="text-xl font-semibold mb-2">${title}</h2>
-    <div>${htmlContentWithoutTitle}</div>
-  </div>
-`;
-
+            <div class="markdown-container bg-white p-4 rounded shadow-md transition-colors duration-200 hover:bg-gray-100 w-200 h-auto overflow-auto flex-none mx-2 my-2">
+              <img src="assets/projects/${file.name.replace('.md', '.png')}" alt="${title}" class="mb-4"/>
+              <h2 class="text-xl font-semibold mb-2">${title}</h2>
+              <div>${htmlContentWithoutTitle}</div>
+            </div>
+          `;
 
                     if (itemCount < maxVisibleItems) {
                         if (folder === 'posts') {

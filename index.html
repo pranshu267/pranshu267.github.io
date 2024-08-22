@@ -51,12 +51,13 @@
         }
 
         .education-container img {
-            height: 100px;
-            /* Set a fixed height for the images */
+            height: 100px; /* Adjust this value to the desired height */
+            width: auto;   /* Maintain aspect ratio */
+            max-width: 100%; /* Prevent the image from exceeding its container's width */
             margin: 0 auto 1rem;
             border-radius: 0.5rem;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06);
-        }
+    }
 
         .contact-container {
             margin-top: 2rem;
@@ -69,6 +70,10 @@
         .section-container {
             margin-bottom: 3.5rem;
             /* Adjust this value as needed for the desired spacing */
+        }
+
+        .nav-item {
+            margin: 0 15px; /* Add more space between navigation items */
         }
 
         .title-container {
@@ -130,9 +135,16 @@
             <span class="text-black font-bold"><a href="Files/Pranshu-Goyal-Resume-MLE.pdf">Resume</a></span><span
                 class="text-black"></span>
         </div>
-        <div>
+        <!-- <div>
             <span class="text-black font-bold"><a href="https://pranshu267.github.io/">Pranshu Goyal</a></span><span
                 class="text-black"></span>
+        </div> -->
+        <div class="flex-grow text-center">
+            <span class="nav-item text-black font-bold"><a href="#about-me-container">About</a></span>
+            <span class="nav-item text-black font-bold"><a href="#experience-container">Experience</a></span>
+            <span class="nav-item text-black font-bold"><a href="#projects-container">Projects</a></span>
+            <span class="nav-item text-black font-bold"><a href="#publications-container">Publications</a></span>
+            <span class="nav-item text-black font-bold"><a href="#education-container">Education</a></span>
         </div>
         <button id="dark-mode-toggle" class="ml-4 p-2  text-black rounded shadow-md">☀️</button>
     </nav>
